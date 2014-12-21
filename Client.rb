@@ -1,5 +1,5 @@
 class Client
-  attr_accessor :name, :age, :hasLicense, :id, :vehicle
+  attr_accessor :name, :age, :has_license, :id, :vehicle
 
   def initialize(name, age, hasLicense, id)
     @name = name

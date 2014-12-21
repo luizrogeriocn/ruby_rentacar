@@ -71,5 +71,5 @@ class Rental
     end
     res
   end
-
+  
 end
